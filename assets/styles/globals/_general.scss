@@ -1,0 +1,13 @@
+// height = top-border + content height + bottom-border
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+
+html,body{
+	// Styles
+	height: 100%;
+}
